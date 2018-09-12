@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>S'abonner</title>
+	<link rel="stylesheet" href="style2.css" />
+		<link rel="stylesheet" href="style" />
+	<meta charset="utf-8">
+	<link rel="shortcut icon" sizes="16x16" href="https://cdn1.iconfinder.com/data/icons/micon-social-pack/512/twitch-512.png">
+</head>
+<body>
+
+<h2 class="h2" align="center">Veuilliez vous connectez d'abord. Cliquez <a href="pageaccueil.php" ><img src="http://www.clker.com/cliparts/2/v/Z/A/g/2/back-button-hi.png" height="10%" width="10%"> </a> pour revenir!</h2>
+
+
+
+</body>
+</html>
