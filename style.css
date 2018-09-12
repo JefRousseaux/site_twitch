@@ -1,0 +1,161 @@
+body
+{
+	background-image: url("https://dotesports-media-cdn-tqgiyve.stackpathdns.com/wp-content/uploads/2018/08/12034631/e5853b75-b918-47f3-91b8-05d4588af0b7.jpg");
+	background-attachment: fixed;
+	background-size: 500px 300px;
+}
+.imageentete
+{
+position: absolute;
+left: 0px;
+top: 0px;	
+}
+.logoentete
+{
+position: absolute;
+left: 35%;
+top: 0px;	
+}
+
+div
+{
+position: absolute;
+left: 42%;
+top: 22%;	
+color: white;
+font-weight: bold;
+font-family: Brodway, Times New	Roman ;
+font-size: 30px;
+text-decoration: underline;
+}
+.index
+{
+	border: solid;
+	color: purple;
+	position: absolute;
+	top: 49,8%;	
+	left:-0.05%;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: rgb(180, 100, 180);
+	cursor: hand;
+}
+
+.border
+{
+    font-family: fantasy;
+	color: purple;
+	text-decoration: none;
+
+}
+.border:hover
+{
+	color: white;
+	font-size: 25px;
+}
+
+.tbi
+{
+	background-color: white;
+	color: black;
+	 font-family: fantasy;
+	 	position: absolute;
+	top: 20%;	
+	left: 36%;
+}
+.indexx
+{
+	border: solid;
+	color: purple;
+
+	position: absolute;
+	top: 50%;	
+	left:-0.05%;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: rgb(180, 100, 180);
+	cursor: hand;
+}
+.sabonner
+{
+    font-family: fantasy;
+	color: white;
+	text-decoration: none;
+}
+.sabonner:hover
+{
+	color: white;
+	font-size: 25px;
+}
+.h2
+{
+	 color: white; 
+	 text-decoration: underline;
+}
+.enteteformulaire
+{
+	border: solid;
+		box-shadow: 3px 3px 2px black;
+	position: absolute;
+	top: -1%;	
+	left:-1%;
+}
+.indexx
+{
+	border: solid;
+	color: red;
+	position: absolute;
+	top: 5%;	
+	left:40%;
+	font-size: 30px;
+	font-weight: bold;
+	background-color: red;
+	cursor: hand;
+}
+.sabonner
+{
+    font-family: fantasy;
+	color: white;
+	text-decoration: none;
+}
+.sabonner:hover
+{
+	color: white;
+	font-size: 50px;
+}
+.vasy
+{
+	position: absolute;
+	top: 18%;	
+	left:41%;
+	 font-family: fantasy;
+	color: white;
+}
+.vasy:hover
+{
+	color: yellow;
+	 font-family: fantasy;
+	font-style: oblique;
+		font-size: 30px;
+		position: absolute;
+	top: 18%;	
+	left:39%;
+}
+.back
+{
+		position: absolute;
+	top: 80%;	
+	
+}
+.bye
+{
+	position: absolute;
+	top: 3%;	
+	left:95%;
+}
+.etat
+{
+	position: absolute;
+	top: 3%;	
+	left:3%;
+}
